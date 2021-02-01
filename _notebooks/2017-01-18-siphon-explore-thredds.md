@@ -1,4 +1,4 @@
-None---
+---
 title: "Exploring the THREDDS catalog with Unidata's Siphon"
 layout: notebook
 
